@@ -32,7 +32,7 @@
   }
   
   .panel {
-    width: 350px;
+    width: 450px;
     background-color: #fff;
     border: 1px solid #dedede;
     border-radius: 2px;
@@ -83,11 +83,15 @@
     width: 100%;
     margin: 10px 0;
     padding: 7px 0;
-    background-color: #3c9cdc;
+    background-color: #590f54;
     color: #fff;
     border-radius: 5px;
     border: none;
     font-size: 14px;
+  }
+
+  .button:hover{
+    background-color: #9f20a6;
   }
   
   .divider {
